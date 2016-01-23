@@ -2,6 +2,7 @@
 
 If you have GoLang and a proper $GOPATH you may:
 
+
 ```go get github.com/codeskyblue/go-sh```
 ```go run brew-awesome.go```
 
